@@ -63,3 +63,16 @@ $ git status (verifico los cambios en la rama)
 $ git add . (agrego todo)
 $ git commit -m "Nueva rama, se agrega fichero 2.txt" (commiteo con informacion)
 $ git push origin v0.2 (pusheo cambios en v0.2)
+
+--Merge directo
+Posicionarse en la rama master/main--
+$ git checkout main (voy a main)
+
+---Hacer un merge de la rama v0.2 en
+la rama master.---
+$ git merge v0.2 (posicionados en la main, hago un merge con la rama v0.2)
+
+
+---En la rama master poner Hola en
+el fichero 1.txt y hacer commit.---
+$ echo Hola > 1.txt
