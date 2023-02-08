@@ -88,4 +88,9 @@ $ echo Adios > 1.txt
 $ git status
 $ git add .
 $ git commit -m "Modifique el archivo 1.txt"
-$ git push
+$ git push origin v0.2
+
+---Posicionarse de nuevo en la
+rama master y hacer un merge con la rama v0.2---
+$ git checkout main
+$ git merge v0.2
