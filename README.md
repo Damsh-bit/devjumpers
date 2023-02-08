@@ -76,3 +76,16 @@ $ git merge v0.2 (posicionados en la main, hago un merge con la rama v0.2)
 ---En la rama master poner Hola en
 el fichero 1.txt y hacer commit.---
 $ echo Hola > 1.txt
+$ git status
+$ git add .
+$ git commit -m "Modifique el archivo 1.txt"
+$ git push
+
+--Posicionarse en la rama v0.2 y
+poner Adios en el fichero "1.txt" y hacer commit.--
+$ git checkout v0.2
+$ echo Adios > 1.txt
+$ git status
+$ git add .
+$ git commit -m "Modifique el archivo 1.txt"
+$ git push
