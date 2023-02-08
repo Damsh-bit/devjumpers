@@ -124,5 +124,5 @@ Camila Calegari | [Perfil de Github](https://github.com/camilacalegari/ "Perfil 
 Franco Formigo  | [Perfil de Github](https://github.com/francobenjaminformigo "Perfil de Github")
 
 # Colaboradores
-[Armando Torres Quintana](%28http://https://github.com/ArmaTQ)
-[Camila Rios](%28https://github.com/camilarios01)
+[Armando Torres Quintana](http://https://github.com/ArmaTQ)
+[Camila Rios](https://github.com/camilarios01)
