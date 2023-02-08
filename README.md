@@ -62,4 +62,4 @@ $ touch 2.txt
 $ git status (verifico los cambios en la rama)
 $ git add . (agrego todo)
 $ git commit -m "Nueva rama, se agrega fichero 2.txt" (commiteo con informacion)
-$ git push (pusheo cambios)
+$ git push origin v0.2 (pusheo cambios en v0.2)
