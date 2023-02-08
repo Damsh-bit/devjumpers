@@ -113,13 +113,16 @@ documento README.md**
     $ git list
     $ git log
 
-|	**Nombre**  |	**Enlace al perfil de Github**  | 
-|	Armando Torres Quintana	|	[Perfil de Armando Torres Quintana	](https://github.com/ArmaTQ)|
-|	Lucas Gimenez  |	[Perfil de Lucas Gimenez](https://github.com/Vrodah)  |
-|	Leandro Cuevas  |	[Perfil de Alejo paiva](https://github.com/BLUHD823/)  |
-|	Cristian Ortiz  |	[Perfil de Cristian Ortiz](https://github.com/Cristian550/) |
-|	Camila Calegari  |	[Perfil de Camila Calegari](https://github.com/camilacalegari/)  |
-|	Franco Formigo  |	[Perfil de Franco Formigo](https://github.com/francobenjaminformigo)  |
 
+Nombre  | Github
+------------- | -------------
+Armando Torres Quintana  | [Perfil de Github](http://https://github.com/ArmaTQ "Perfil de Github")
+Lucas Gimenez  | [Perfil de Github](http://https://github.com/Vrodah "Perfil de Github")
+Alejo Paiva  | [Perfil de Github](https://github.com/BLUHD823/ "Perfil de Github")
+Cristian Ortiz | [Perfil de Github](https://github.com/Cristian550/ "Perfil de Github")
+Camila Calegari | [Perfil de Github](https://github.com/camilacalegari/ "Perfil de Github")
+Franco Formigo  | [Perfil de Github](https://github.com/francobenjaminformigo "Perfil de Github")
 
-
+# Colaboradores
+[Armando Torres Quintana](%28http://https://github.com/ArmaTQ)
+[Camila Rios](%28https://github.com/camilarios01)
