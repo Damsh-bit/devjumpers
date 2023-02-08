@@ -94,3 +94,22 @@ $ git push origin v0.2
 rama master y hacer un merge con la rama v0.2---
 $ git checkout main
 $ git merge v0.2
+
+
+--Listar las ramas con merge y las ramas sin merge.--
+$ git branch --merged
+$ git branch --no-merged
+
+---Arreglar el conflicto anterior y hacer un commit.---
+$ git add .
+$ git commit -m "conflictos resueltos"
+$ git push
+
+---Borrar la rama v0.2---
+$ git branch -d v0.2
+
+
+---Listar los distintos commits con sus ramas y sus tags.---
+$ git list
+$ git log
+
